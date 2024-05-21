@@ -6,10 +6,10 @@ import time
 import schedule
 
 # Replace 'YOUR_TOKEN_HERE' with your bot's token
-TOKEN = '6201292411:AAER7Y4UlCHVFKx1Fuh6KMasWjYUtM8wYhg'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # Replace 'YOUR_CHANNEL_ID' with your channel's ID (including the '-' sign if it's a supergroup)
-CHANNEL_ID = '-1002018568907'
+CHANNEL_ID = '-100XXXXXXXXXXXXXX'
 
 def send_quiz(bot: Bot) -> None:
     i = 0
